@@ -1,0 +1,23 @@
+type,
+person,0
+organization,1
+,
+rank,
+vorstand,v
+aufsichtsrad,ar
+,
+representation,
+politik,p
+wirtschaft,w
+gewerkschaft,g
+umwelt,u
+sport,s
+wissenschaft,wi
+verwaltung,ver
+kommunikation,k
+einkauf,e
+,
+position,
+vorsitz,vo
+stellvertreter,st
+mitglied in der vfb organisation,m
